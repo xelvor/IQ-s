@@ -4,13 +4,6 @@
 
 <p align="left">👋 Hello i'm IQ</p>
 
-###
-
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">👋  i'm pro</p>
 
 ###
 
