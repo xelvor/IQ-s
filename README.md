@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">MTA: SA scripts on orders</p>
+<p align="left">MTA:SA scripts on order</p>
 
 
 ###
