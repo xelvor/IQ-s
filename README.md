@@ -1,12 +1,5 @@
 <h1 align="left">Hey 👋</h1>
 
-###
-
-<p align="left">MTA:SA scripts on order</p>
-
-
-###
-
 <h2 align="left">I code with</h2>
 
 ###
